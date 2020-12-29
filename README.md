@@ -7,7 +7,7 @@ I am a full stack javascript developer having an experience of over 4 years in t
 
 Skills: REACT/ NODE / JS/ANGULAR / HTML / CSS/ MONGODB/PSQL
 
-- 🔭 I’m currently working on this page. 
+![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawan9124&show_icons=true&theme=dark)
 
 
 
