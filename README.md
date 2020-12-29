@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**pawan9124/pawan9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Pawan Saket
+#### I am Full stack javascript developer
+![I am Full stack javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I am a full stack javascript developer having an experience of over 4 years in the industry and create multiple web applications and currently shifted on latest react native development. Love to create real world projects as a challenge and always learning new tech from the youtube.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT/ NODE / JS/ANGULAR / HTML / CSS/ MONGODB/PSQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
