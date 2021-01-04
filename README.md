@@ -22,6 +22,8 @@ Skills:
 ![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawan9124&show_icons=true&theme=dark)
 
 # Projects Overview
+### Amazon Clone
+<a href="https://amazoncloneps.herokuapp.com/login" target="_blank"><img src="https://github.com/pawan9124/amazon-clone-full/blob/master/ezgif.com-video-to-gif.gif" align='left' height='200' width='300'></a>
 ### Covid-19-tracker
 <a href="https://covid-19-tracker-3fc1e.web.app/" target="_blank"><img src="https://github.com/pawan9124/pawan9124/blob/main/Tab-1609271020566%20(1).gif" align="left" height="200" width="300" ></a>
 
